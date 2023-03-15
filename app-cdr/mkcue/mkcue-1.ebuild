@@ -5,8 +5,8 @@
 EAPI="5"
 
 DESCRIPTION="mkcue generates cue sheets from a CD's TOC"
-HOMEPAGE="https://web.archive.org/web/20050306212442/https://diplodocus.org/projects/audio/"
-SRC_URI="https://web.archive.org/web/20050306212442/https://diplodocus.org/dist/audio/${P}.tar.bz2"
+HOMEPAGE="http://citw.lgbt/gentoo/"
+SRC_URI="http://citw.lgbt/gentoo/mkcue-1.tar.bz2/"
 
 LICENSE="GPL-2"
 SLOT="0"
